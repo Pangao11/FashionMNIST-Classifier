@@ -16,12 +16,6 @@ The Fashion MNIST dataset includes 70,000 grayscale images of fashion products f
 - Examples of model training and evaluation.
 - Illustration of results with confusion matrix and classification report.
 
-## Contributing
-Contributions to the FashionMNIST-Classifier are welcome. Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests.
-
-## License
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
-
 ## Acknowledgments
 - Original creators of the Fashion MNIST dataset.
 - Contributors who have participated in improving this classifier.
